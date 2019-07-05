@@ -1,4 +1,4 @@
-![alt text](https://github.com/bondarenkovladislav/MondelBrot/blob/master/images/wiki.png)
+![alt text](https://github.com/bondarenkovladislav/MondelBrot/blob/master/images/pedia.png)
 ![alt text](https://github.com/bondarenkovladislav/MondelBrot/blob/master/images/1.png)
 ![alt text](https://github.com/bondarenkovladislav/MondelBrot/blob/master/images/2.png)
 ![alt text](https://github.com/bondarenkovladislav/MondelBrot/blob/master/images/3.png)
